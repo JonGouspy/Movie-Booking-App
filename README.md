@@ -1,10 +1,10 @@
 # Jon Gouspy 74538
 
 ## Movie screen:
-✔️ Create a Movie class with the structure specified in movie.json\
-✔️ Obtain and fill data (minimum of 4 movies)\
-✔️ Obtain relevant movie data from Vue (https://www.myvue.com/cinema/dublin/whats-on) or your favourite provider and add data credits at the bottom of the app\
-✔️ Generate a random number between 0 and 15 for each movie and assign to seats_remaining\
+✔️ | Create a Movie class with the structure specified in movie.json\
+✔️ | Obtain and fill data (minimum of 4 movies)\
+✔️ | Obtain relevant movie data from Vue (https://www.myvue.com/cinema/dublin/whats-on) or your favourite provider and add data credits at the bottom of the app\
+✔️ | Generate a random number between 0 and 15 for each movie and assign to seats_remaining\
 ✔️ Start with an initial default seats_selected value of 0 for all movies\
 ✔️ You shall fill random URLs for images from pixabay or other free image providers to begin with\
 ✔️ If any seats are selected, show how many seats are selected and hide remaining seats\
